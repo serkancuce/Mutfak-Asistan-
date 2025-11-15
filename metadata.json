@@ -1,0 +1,5 @@
+{
+  "name": "Culinary Vision AI",
+  "description": "Snap a photo of your fridge, and this AI-powered culinary assistant will identify ingredients, suggest personalized recipes with dietary filters, provide step-by-step cooking instructions with read-aloud functionality, and help you build a shopping list.",
+  "requestFramePermissions": []
+}
